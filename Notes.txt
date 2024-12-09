@@ -1,0 +1,50 @@
+-- Machine Learning --
+
+Resource --> https://www.ibm.com/topics/machine-learning
+
+Machine learning (ML) is a branch of and computer science that focuses on the using data and algorithms to enable AI to imitate the way that humans learn, gradually improving its accuracy.
+
+AI vs ML vs DL
+
+Resource --> https://www.ibm.com/think/topics/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks
+
+Artificial intelligence or AI, the broadest term of the three, is used to classify machines that mimic human intelligence and human cognitive functions like problem-solving and learning.
+Machine learning is a subset of AI that allows for optimization. When set up correctly, it helps you make predictions that minimize the errors that arise from merely guessing. 
+Deep learning automates much of the feature extraction piece of the process, eliminating some of the manual human intervention required
+
+Why Deep Learning ?????? --> Inspired by Biology
+Features is created by itself rather than providing the features
+
+Types of Machine Learning:
+
+1. Supervised machine learning  --> Supervised learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms to classify data or predict outcomes accurately.
+
+a. Regression --> If output/target data value is numerical
+b. Classification --> If the target data value is categorical
+
+2. Unsupervised machine learning --> Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets (subsets called clusters).
+
+a. Clustering --> Grouping of unlabeled data
+b. Dimension Reduction --> Reducing the number of features or combining two features --> PCA
+c. Anamoly Detection --> Detecting the exceptions
+d. Association Rule based Learning --> Finding relationship between two features Eg--> Walmart Beer adn Dipers
+
+3. Semi-supervised learning --> Semi-supervised learning offers a happy medium between supervised and unsupervised learning labeling the unlabeled data using labeled data
+
+4. Reinforcement machine learning --> Reinforcement machine learning is a machine learning model that is similar to supervised learning, but the algorithm isn’t trained using sample data. This model learns as it goes by using trial and error. 
+Eg --> Self Driving Car
+
+BATCH ML --> Training the model Offline 
+[ Data --> Model --> Test --> Server ]
+Disadvantages --> Lots of data , Hardware Limitation
+
+ONLINE ML --> Training the model Online
+[ Data --> Model --> Test --> Server <-- Real time Data]
+
+
+
+
+
+
+
+
