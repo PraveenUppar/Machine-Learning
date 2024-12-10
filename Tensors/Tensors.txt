@@ -1,0 +1,17 @@
+TENSORS ????? --> It is a data structure
+
+1. 0D TENSORS --> 0 Dimension array
+
+2. 1D TENSORS --> It is a vector and the number of elements is the Dimension
+                  The Dimension of 1D TENSORS is 1 but the Dimension vector is the number of elements
+
+3. 2D TENSORS --> Multiple Vectors combined makes matrix 
+
+4. ND TENSORS --> n Dimension array
+
+
+
+
+Eg of 3D TENSORS --> NLP
+Eg of 4D TENSORS --> Image Processing
+Eg of 5D TENSORS --> Video Processing
