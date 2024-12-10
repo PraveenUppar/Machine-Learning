@@ -42,9 +42,24 @@ ONLINE ML --> Training the model Online
 [ Data --> Model --> Test --> Server <-- Real time Data]
 
 
+TYPES OF LEARNING:
 
+INSTANCE Based Learning --> Gives output based on majority closet results --> KNN
+Eg --> KNN
 
+MODEL Based Learning --> Learn from the data find a maths relationship/patterns between different data points
+Eg --> Logistic , Linear , Decision Tree
 
+Machine Learning Life Cycle:
 
+Gathering Data --> Data Preprocessing --> Data Analysis --> Feature Engineering --> Model Training --> Testing --> Optimize --> Model Deployment
 
+Roles --> Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer
+
+TENSORS ????? --> It is a data structure
+
+1. 0D TENSORS --> 0 Dimension array
+2. 1D TENSORS --> 1 Dimension array
+3. 2D TENSORS --> 2 Dimension array
+4. ND TENSORS --> n Dimension array
 
