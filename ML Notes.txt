@@ -60,3 +60,6 @@ Tools and Software -->
 
 Anaconda, Juypter, Kaggle, Google Colab --> Create Environment
 Kaggle --> Datasets
+
+
+
