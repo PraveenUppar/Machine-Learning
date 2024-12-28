@@ -1,0 +1,69 @@
+NLP --> Natural Language Processing 
+
+Natural language processing (NLP) is a subfield of computer science and artificial intelligence (AI) 
+that uses machine learning to enable computers to understand and communicate with human language.
+
+NLP = AI/ML + Human Language + Computer Science
+
+NLP Tasks:
+
+1. Text Classification
+2. Sentimental Analysis
+3. Informational Retrieval
+4. Part of Speech Tagging
+5. Language Detection
+6. Chat Bots
+7. Knowledge Graph and QA System
+8. Text Summarization
+9. Topic Modelling
+10. Text Generation
+11. Spell Checking
+12. Speech to Text
+
+Approaches to NLP:
+
+1. Heuristic Method
+2. Machine Learning Based Methods
+3. Deep Learning Based Methods
+
+NLP Pipeline:
+
+1. Data Gathering
+2. Text Preparation
+3. Feature Engineering
+4. Modelling
+5. Deployment
+
+Step Details:
+
+Step 1: Data Gathering
+
+Step 2: Text Preparation
+
+    1. Text Cleaning
+    2. Tag and Emoji Removal
+    3. Tokenization - Sentence and Word
+    4. Stemming
+    5. Lower and Upper Casing
+    6. Language Detection
+
+Step 3: Feature Engineering
+
+Step 4: Modelling
+
+    1. Modelling
+        1. ML Algo
+        2. DL Algo --> Transfer Learning --> Eg:BERT
+        3. Cloud API
+
+    2. Evaluation
+        1. Intrinsic 
+        2. Extrinsic
+
+Step 5: Deployment
+
+    1. Deploy
+    2. Monitor
+    3. Update
+
+    3 options --> Hostel and not come back --> AB and roomies --> Mauri and study
