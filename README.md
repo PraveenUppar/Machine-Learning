@@ -1,1 +1,1 @@
-# 100 Days of Machine Learning
+# Machine Learning
